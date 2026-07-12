@@ -64,7 +64,7 @@ Outros dados estruturais:
 > Critério de avaliação: potencial comercial, aderência aos padrões vencedores e **viabilidade de construção por IA**
 > (geometria simples, sistemas via código, zero dependência de modelagem orgânica/rigging).
 
-### Ideia A — "Grow a Crystal" (fazenda de cristais com roubo e mutações)
+### Ideia A — Cultivo de cristais com roubo e mutações (título de trabalho: "Steal a Crystal")
 
 Jogadores cultivam **cristais** em uma caverna pessoal. Cristais crescem em tempo real **inclusive offline**, sofrem **mutações RNG** (cores, brilhos, efeitos), podem ser colhidos, vendidos, fundidos ou **roubados** por outros jogadores em janelas de risco controladas. Economia de trading + clãs + eventos globais de clima mágico.
 
@@ -105,11 +105,16 @@ Surfar a onda brainrot/meme com arena casual.
 - **Riscos: FATAIS para nosso contexto.** (1) Personagens-meme exigem modelos 3D com personalidade + animação — exatamente o que IA não produz bem; (2) risco de IP/DMCA (a onda brainrot usa personagens de terceiros); (3) memes têm meia-vida curta — o jogo morre com a trend. **Descartada.**
 - **Dificuldade para IA: ALTA.** **Viralização: MUITO ALTA.** **Monetização: MÉDIA.** **Público**: 9–15.
 
-### 2.1 DECISÃO — A escolhida: **Ideia A, "Grow a Crystal"** (título de trabalho)
+### 2.1 DECISÃO — A escolhida: **Ideia A, "Steal a Crystal"** (título de trabalho)
 
 Justificativa em uma linha: **é a interseção máxima entre "padrões comprovados pelos dois maiores fenômenos da plataforma" e "aquilo que uma IA constrói com excelência"** (geometria primitiva + sistemas via código + beleza por material/luz/partícula, não por modelagem).
 
-Sobre o nome: a fórmula "Grow a X" tem CTR comprovado na busca/home (o jogador entende o jogo pelo título). Alternativas a testar em A/B de ícone/título: *Crystal Caves*, *Grow a Gem*, *Mine & Mutate*. Recomendo lançar como **"Grow a Crystal 💎"** e iterar.
+**Validação de colisão (verificada em jul/2026):** já existe **"Grow Crystals! 💎"** (Fun Growing Games, criado em dez/2024, 50M+ visitas) — um clone direto de Grow a Garden com tema de cristais: plantar, crescimento offline e mineradores passivos. É um jogo de porte médio (tem cobertura de sites de códigos, mas não aparece em nenhum ranking de topo). Duas consequências:
+
+1. **O nome "Grow a Crystal" está queimado** — lançaríamos como "clone do clone", competindo pelos mesmos termos de busca contra um incumbente com SEO estabelecido.
+2. **A demanda pelo tema está validada** — e a rasidão do incumbente (sem roubo, sem trade, sem fusão, sem clãs, sem temporadas) confirma exatamente a nossa tese de diferenciação.
+
+**Decisão de nome: posicionar no eixo diferenciador — "Steal a Crystal 💎"** (título de trabalho). A fórmula "Steal a X" tem CTR comprovado pelo maior recorde de CCU da história e, na verificação de jul/2026, **o nicho "Steal a Crystal" está livre**. Alternativas para A/B de ícone/título: *Steal a Gem*, *Crystal Heist*, *Mine & Mutate*. **Regra de processo: revalidar a disponibilidade do nome na semana do lançamento** — ondas de clones se movem rápido nesta meta.
 
 ---
 
@@ -117,7 +122,7 @@ Sobre o nome: a fórmula "Grow a X" tem CTR comprovado na busca/home (o jogador 
 
 ### 3.1 Visão geral
 
-**Grow a Crystal** é um jogo de cultivo, coleção e economia social. Cada jogador possui uma **Caverna** pessoal (plot instanciado num servidor compartilhado com ~10–12 cavernas visíveis, como vilas vizinhas). Nela, planta **Sementes de Cristal** que crescem em tempo real — **inclusive offline**. Ao crescer, cada cristal rola **tamanho, qualidade e mutações** (RNG). O jogador colhe e decide: **vender** (moeda), **fundir** (crafting de cristais superiores), **expor** (buff passivo de status na caverna) ou **tradear**. Cristais expostos e maduros não colhidos podem ser **roubados** por outros jogadores em condições justas e protegíveis — a tensão social que gera clipes e retorno.
+**Steal a Crystal** é um jogo de cultivo, coleção e economia social. Cada jogador possui uma **Caverna** pessoal (plot instanciado num servidor compartilhado com ~10–12 cavernas visíveis, como vilas vizinhas). Nela, planta **Sementes de Cristal** que crescem em tempo real — **inclusive offline**. Ao crescer, cada cristal rola **tamanho, qualidade e mutações** (RNG). O jogador colhe e decide: **vender** (moeda), **fundir** (crafting de cristais superiores), **expor** (buff passivo de status na caverna) ou **tradear**. Cristais expostos e maduros não colhidos podem ser **roubados** por outros jogadores em condições justas e protegíveis — a tensão social que gera clipes e retorno.
 
 - **Plataformas**: mobile-first (tudo operável com um polegar), PC, console.
 - **Estética**: cavernas escuras + cristais Neon/Glass + luz dinâmica + partículas = visual "satisfying" de alto impacto com geometria trivial. Direção de arte: "bioluminescência mágica", neutra em idade (agrada de 9 a 25 anos).
@@ -430,6 +435,7 @@ Suporte ativo:
 | Concorrente | Pontos fortes | Pontos fracos | Oportunidade que deixa aberta | Como superamos |
 |---|---|---|---|---|
 | **Grow a Garden** (21M CCU pico) | Loop offline perfeito; mobile; simplicidade; marca da fórmula "Grow a" | Zero tensão social; profundidade rasa (sem clã forte, crafting raso); dependente de novidade | Jogador que ama o loop mas quer *mais jogo* | Mesmo conforto de cultivo + roubo justo + fusão + clãs + trade profundo |
+| **Grow Crystals!** (dez/2024, 50M+ visitas) — **concorrente direto de tema** | Ocupou primeiro o nicho "cristais que crescem"; offline growth; mineradores passivos; SEO de códigos estabelecido | Clone raso de Grow a Garden: sem roubo, sem trade, sem fusão, sem clãs, sem temporadas; porte médio (fora de qualquer top chart) | Todo o metajogo social e de economia está vago no nicho | Não competimos pelo nome (por isso "Steal a Crystal", não "Grow a…"); competimos por profundidade: ele valida a demanda pelo tema e nos cede o jogador que quer mais que plantar-e-colher |
 | **Steal a Brainrot** (25,8M CCU recorde) | Tensão social geradora de clipes; meme-power; simplicidade brutal | Frustração de perder sem proteção; base em IP de meme (risco legal/moda); economia rasa; meia-vida de trend | Roubo *justo* e sustentável, desacoplado de memes de terceiros | Roubo com escudos/seguro/vingança + IP próprio atemporal (cristais) |
 | **Pet Simulator 99 / BIG Games** | Execução impecável; economia de trade madura; eventos constantes; máquina de updates | Complexidade acumulada intimida novatos; percepção de gacha pesado; exige equipe gigante | Entrada simples com teto profundo | FTUE de 60 segundos; gacha só periférico (geodos ganháveis); nossa cadência procedural barateia updates |
 | **Adopt Me** | Economia de trade lendária; escassez que valoriza; audiência fiel | Envelhecido; loop principal fraco (o trade É o jogo); crescimento estagnado | Trade forte APOIADO num loop de gameplay forte | Trade + escassez sazonal sobre um loop de cultivo/roubo vivo |
@@ -511,4 +517,4 @@ Suporte ativo:
 
 ## 10. RESUMO EXECUTIVO
 
-Construir **"Grow a Crystal"**: um jogo de cultivo offline de cristais com mutações RNG, roubo justo opt-in, fusão, trading com escassez sazonal, clãs cooperativos e temporadas de 8 semanas — mobile-first, R15, estética neon/bioluminescente feita de primitivas + materiais + partículas (100% construível por IA), monetizado por conveniência (gamepasses core + Lumens + assinatura Pacto Lunar + passes sazonais) com funil segmentado do free ao colecionador. Lançar via soft launch com gate de retenção, crescer pelo algoritmo (D1/sessão) + máquina de clipes por design + creator codes, e sustentar com updates semanais de custo marginal baixo. A tese: **a interseção dos padrões dos dois maiores fenômenos da história da plataforma, executada com a estrutura de retenção dos simuladores mais lucrativos, a um custo de produção que só produção procedural via IA permite.**
+Construir **"Steal a Crystal"**: um jogo de cultivo offline de cristais com mutações RNG, roubo justo opt-in, fusão, trading com escassez sazonal, clãs cooperativos e temporadas de 8 semanas — mobile-first, R15, estética neon/bioluminescente feita de primitivas + materiais + partículas (100% construível por IA), monetizado por conveniência (gamepasses core + Lumens + assinatura Pacto Lunar + passes sazonais) com funil segmentado do free ao colecionador. Lançar via soft launch com gate de retenção, crescer pelo algoritmo (D1/sessão) + máquina de clipes por design + creator codes, e sustentar com updates semanais de custo marginal baixo. A tese: **a interseção dos padrões dos dois maiores fenômenos da história da plataforma, executada com a estrutura de retenção dos simuladores mais lucrativos, a um custo de produção que só produção procedural via IA permite.**
